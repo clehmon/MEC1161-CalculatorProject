@@ -1,0 +1,17 @@
+﻿  Calculator.c
+  Source.c
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(26,4): warning C4013: 'addition' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(29,4): warning C4013: 'subtraction' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(32,4): warning C4013: 'multiplication' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(35,4): warning C4013: 'division' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(38,4): warning C4013: 'modulus' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(41,4): warning C4013: 'power' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(44,4): warning C4013: 'factorial' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(47,4): warning C4013: 'square' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(50,4): warning C4013: 'cube' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(53,4): warning C4013: 'squareroot' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(56,4): warning C4013: 'SIN' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(59,4): warning C4013: 'COS' undefined; assuming extern returning int
+C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\Source.c(62,4): warning C4013: 'TAN' undefined; assuming extern returning int
+  Generating Code...
+  Project.vcxproj -> C:\Users\Clement\Desktop\MEC1161-CalculatorProject\Project\Project\x64\Debug\Project.exe
